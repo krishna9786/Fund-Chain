@@ -1,5 +1,5 @@
 # Fund-Chain
-Fundchain is a revolutionary decentralized application (DApp) that facilitates seamless fundraising for projects and humanitarian initiatives. Leveraging the power of blockchain technology, the platform establishes a transparent, secure, and efficient ecosystem for both donors and project initiators. Whether it's a charitable cause, a social project, or an innovative idea, Fundchain empowers individuals to drive positive change in the world.
+Fundchain is a revolutionary decentralized application (DApp) that facilitates seamless fundraising for projects and humanitarian initiatives. Leveraging the power of blockchain technology, the platform establishes a transparent, secure, and efficient ecosystem for both donors and project initiators. Whether it's a charitable cause, a social project, or an innovative idea, Fundchain empowers individuals to drive positive change in the world
 
 ## TechStack
 * TailwindCSS
